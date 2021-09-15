@@ -1,2 +1,2 @@
 # LT-training-fullstack
-This is a demo remo
+This is a demo repo
